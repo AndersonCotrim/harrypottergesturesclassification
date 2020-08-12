@@ -2,6 +2,16 @@
 
 Este repositório trata-se de um trabalho final feito para disciplina de MC906 - Introdução a Inteligencia Artificial - IC - Unicamp. Nele investigamos técnicas de aprendizado para classificação de movimentos, explorando o contexto da classificação de Feitiços de Harry Potter.
 
+#### Apks Compiladas
+
+
+
+#### Lista de Feitiços
+
+![Lista de Feitiços](spells_list.img.jpg?raw=true "Lista de Feitiços")
+
+
+
 Os arquivos do projetos estão organizados da seguinte forma:
 
 * **AndroidStudioProject**:projeto feito no android studio para captura dos dados.
