@@ -8,7 +8,7 @@ Este repositório trata-se de um trabalho final feito para disciplina de MC906 -
 
 #### Lista de Feitiços
 
-![Lista de Feitiços](spells_list.img.jpg?raw=true "Lista de Feitiços")
+![Lista de Feitiços](spells_list.png?raw=true "Lista de Feitiços")
 
 
 
