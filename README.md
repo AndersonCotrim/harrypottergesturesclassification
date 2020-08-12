@@ -4,7 +4,7 @@ Este repositório trata-se de um trabalho final feito para disciplina de MC906 -
 
 #### Apk Compilada com servidor dedicado temporariamente
 
-[Download APK](harry.apk)
+[Download APK](harry.apk?raw=true)
 
 
 #### Lista de Feitiços
